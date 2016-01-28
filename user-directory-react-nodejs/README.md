@@ -4,22 +4,9 @@
 
 User directory is a sample application that allows you to look up users by name, view the details of an user.
 
-This version of Users Directory is built with [React](http://facebook.github.io/react/) and [Node.js]().
-
-![alt tag](assets/directory_search.png)
-
-![alt tag](assets/directory_details.png)
-
 You can test the application in your browser:
-- Using the hosted version
 - By running the application's Node.js server locally
 - By deploying the application's Node.js server on Heroku
-
-You can also run the application as a hybrid app in Cordova.
-
-## Hosted Version
-
-Click [here](http://react-directory.herokuapp.com) to run the hosted version in your browser.
 
 ## Running the Node.js Server Locally
 
@@ -42,3 +29,12 @@ Click [here](http://react-directory.herokuapp.com) to run the hosted version in 
   ```
 
 1. Open a browser and access: [http://localhost:5000](http://localhost:5000)
+
+## Credits and Resources
+
+Contributed by Zoomdata employee Anya Y.
+
+This version of Users Directory is built with [React](http://facebook.github.io/react/) and [Node.js]().
+
+We started using this ReactJS template:
+http://coenraets.org/blog/2014/12/employee-directory-sample-app-with-react-and-node-js/
